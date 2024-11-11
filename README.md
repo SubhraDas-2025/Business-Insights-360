@@ -39,11 +39,7 @@ https://github.com/user-attachments/assets/7328b090-281e-4909-9bcb-7cce648a63f0
 
 🚚 SUPPLY CHAIN VIEW :
 
-
-
-
 https://github.com/user-attachments/assets/5560d462-7611-43fb-b0b0-ce9984c2e423
-
 
 👩‍💻 EXECUTIVE VIEW :
 
