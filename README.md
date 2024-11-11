@@ -5,3 +5,4 @@ This Power BI dashboard provides critical insights into Atliq Hardware’s 📈 
 🏠 Home Page :
 ![Uploading Screenshot 2024-11-11 175916.png…]()
 
+
