@@ -20,7 +20,7 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 
 🎯 𝗖𝗢𝗠𝗣𝗔𝗡𝗬 𝗚𝗢𝗔𝗟 :
 
-The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance  𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, enable continuous  𝗴𝗿𝗼𝘄𝘁𝗵, and 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻 𝗔𝘁𝗹𝗶𝗾’𝘀 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻 in consumer electronics.
+The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance  𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, enable continuous  𝗴𝗿𝗼𝘄𝘁𝗵, and strengthen Atliq's 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻 in consumer electronics.
 
 ![Screenshot 2024-11-11 183933](https://github.com/user-attachments/assets/cb625957-9b43-4bda-8ad3-e60a040ba57f) 
 
