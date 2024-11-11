@@ -8,14 +8,11 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 
 ❓𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :
 
-Atliq Hardware is a fast-growing consumer electronics company with a presence in multiple countries.
+  Atliq Hardware is a fast-growing consumer electronics company with a presence in multiple countries.
 
 → 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲: Despite their expansion, Atliq relies on outdated data analysis methods, primarily using Excel files.
-
 → 𝗜𝘀𝘀𝘂𝗲𝘀 𝘄𝗶𝘁𝗵 𝗢𝗹𝗱 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 : 𝟏) Data management is slow and inefficient. 𝟐) Finding actionable insights is challenging and time-consuming.
-
 → 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗣𝗿𝗼𝗯𝗹𝗲𝗺: Recently, Atliq suffered a major loss in their Latin American market due to these data limitations.
-
 → 𝗡𝗲𝗲𝗱 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 : To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
 
 🏠 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲 :
