@@ -6,7 +6,7 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 
 𝗔𝘁𝗶𝗾 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 is a fast-growing 🌎 global company specializing in 💻 𝗰𝗼𝗺𝗽𝘂𝘁𝗲𝗿𝘀 𝗮𝗻𝗱 𝗮𝗰𝗰𝗲𝘀𝘀𝗼𝗿𝗶𝗲𝘀. They offer desktops, laptops, servers, and peripherals like keyboards, mice, monitors, and storage devices. Through a strong distribution 🌐 𝗻𝗲𝘁𝘄𝗼𝗿𝗸 𝗮𝗻𝗱 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 partnerships, Atiq ensures its products reach customers worldwide, building a 🤝 trustworthy reputation in the tech market.
 
-❓𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁 :
+❓𝗣ROBLEM 𝗦TATEMENT :
 
   Atliq Hardware is a fast-growing consumer electronics company with a presence in multiple countries.
 
@@ -17,6 +17,12 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 • 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗣𝗿𝗼𝗯𝗹𝗲𝗺: Recently, Atliq suffered a major loss in their Latin American market due to these data limitations.
 
 • 𝗡𝗲𝗲𝗱 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 : To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
+
+🎯 GOAL :
+The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance efficiency, enable continuous growth, and strengthen Atliq’s position in consumer electronics.
+
+![Screenshot 2024-11-11 183933](https://github.com/user-attachments/assets/cb625957-9b43-4bda-8ad3-e60a040ba57f) 
+
 
 🏠 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲 :
 
