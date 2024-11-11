@@ -25,7 +25,7 @@ The goal is to transition Atliq Hardware from Excel files to a modern data analy
 ![Screenshot 2024-11-11 183933](https://github.com/user-attachments/assets/cb625957-9b43-4bda-8ad3-e60a040ba57f) 
 
 
-🏠 𝗛𝗼𝗺𝗲 𝗣𝗮𝗴𝗲 :
+🏠 𝗛𝗢𝗠𝗘 𝗣𝗔𝗚𝗘 :
 
 
 ![Screenshot 2024-11-11 175916](https://github.com/user-attachments/assets/6f778d0b-305d-4599-a832-13b3dbc902d7) 
