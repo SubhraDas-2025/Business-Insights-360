@@ -27,7 +27,7 @@ The goal is to transition Atliq Hardware from Excel files to a modern data analy
 
 📊 𝗙𝗜𝗡𝗔𝗡𝗖𝗘 𝗩𝗜𝗘𝗪 :
 
-[Uploading Screen Recording 2024-11-11 213700.mp4… ](https://github.com/user-attachments/assets/1dcf3f34-2fb1-44ec-a17c-ccccf5f61117)
+(https://github.com/user-attachments/assets/1dcf3f34-2fb1-44ec-a17c-ccccf5f61117)
 
 
 
