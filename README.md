@@ -1,4 +1,4 @@
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁: 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘀𝗶𝗴𝗵𝘁 𝟯𝟲𝟬 🚀📊
+𝗕𝗨𝗦𝗜𝗡𝗘𝗦𝗦 𝗜𝗡𝗦𝗜𝗚𝗛𝗧𝗦 𝟯𝟲𝟬 :🚀
 
 This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲’s 📈 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲, 📉 𝗺𝗮𝗿𝗸𝗲𝘁 𝘁𝗿𝗲𝗻𝗱𝘀, 🔗 𝘀𝘂𝗽𝗽𝗹𝘆 𝗰𝗵𝗮𝗶𝗻 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, 👥 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗼𝘃𝗲𝗿𝘃𝗶𝗲𝘄, and ⚙️ 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲𝗻𝗲𝘀𝘀. By visualizing key metrics, it helps the company make informed decisions, streamline operations, and boost profitability. This project aims to strengthen Atliq Hardware’s market position and secure long-term success. 🌟
 
@@ -19,6 +19,7 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 • 𝗡𝗲𝗲𝗱 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 : To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
 
 🎯 𝗖𝗢𝗠𝗣𝗔𝗡𝗬 𝗚𝗢𝗔𝗟 :
+
 The goal is to transition Atliq Hardware from Excel files to a modern data analytics system. This shift will generate valuable insights, improve decision-making, and prevent future losses, particularly in key markets like Latin America. Ultimately, the aim is to enhance  𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆, enable continuous  𝗴𝗿𝗼𝘄𝘁𝗵, and 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻 𝗔𝘁𝗹𝗶𝗾’𝘀 𝗽𝗼𝘀𝗶𝘁𝗶𝗼𝗻 in consumer electronics.
 
 ![Screenshot 2024-11-11 183933](https://github.com/user-attachments/assets/cb625957-9b43-4bda-8ad3-e60a040ba57f) 
