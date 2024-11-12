@@ -61,13 +61,21 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 📍𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬:
 
 🛠️ Created 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐃𝐀𝐗 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬.
+
 🔗 Connected data from 𝐌𝐲𝐒𝐐𝐋 𝐚𝐧𝐝 𝐄𝐱𝐜𝐞𝐥, for a comprehensive view.
+
 📖 Utilized 𝐛𝐨𝐨𝐤𝐦𝐚𝐫𝐤𝐬 to switch between visuals.
+
 📚 Implemented 𝐩𝐚𝐠𝐞 𝐧𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 with 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 to improve user experience.
+
 💡 Used 𝐭𝐨𝐨𝐥𝐭𝐢𝐩𝐬 to save space and provide context within visuals.
+
 🎨 Enhanced visualizations through 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠,
+
 ✨ Designed 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐭𝐢𝐭𝐥𝐞𝐬 that changed based on applied filters.
+
 🔄 Set up 𝐚𝐮𝐭𝐨-𝐫𝐞𝐟𝐫𝐞𝐬𝐡 for data 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐠𝐚𝐭𝐞𝐰𝐚𝐲 for real-time updates.
+
 
 
 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐔𝐬𝐞𝐝:
@@ -83,34 +91,58 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 ⚙️𝐃𝐀𝐗 𝐒𝐭𝐮𝐝𝐢𝐨: Optimized performance for efficient reporting.
 
 📋𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐡𝐚𝐫𝐭𝐞𝐫: Defined project goals and kept everything on track! 
+
 🔍𝗘𝘅𝗰𝗲𝗹 : Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
+
 🤝𝗖𝗵𝗮𝘁𝗚𝗣𝗧: Support in understanding complex DAX measures
 
-**Important Business Terms I have learned :**
+
+📝 **Important Business Terms I have learned :**
 
 1. **Net Sales**: Sales after returns and discounts.
-2. **Gross Price**: Price before discounts.
-3. **Pre-Invoice Deduction**: Discounts before the invoice is made.
-4. **Post-Invoice Deduction**: Discounts after the invoice is made.
-5. **Net Invoice Sales**: Sales after all deductions on the invoice.
-6. **Cost of Goods Sold (COGS)**: Cost to make the product.
-7. **Gross Margin**: Sales minus the cost of goods sold.
-8. **Gross Margin %**: Percentage of profit from sales.
-9. **Net Profit**: Profit after all costs, expenses, and taxes.
-10. **Net Profit %**: Profit percentage after all expenses.
-11. **Market Share %**: Company’s sales compared to the whole market.
-12. **Forecast Accuracy**: How close sales predictions are to actual sales.
-13. **Net Error**: Difference between actual and predicted results.
-14. **Absolute Error**: The exact difference between actual and predicted results.
-15. **Year-to-Date (YTD)**: Performance from the start of the year to now.
-16. **Year-to-Go (YTG)**: Projected performance until the end of the year.
-17. **Benchmark**: Standard to compare performance.
-18. **Customer-Consumer**: Customer buys, consumer uses.
-19. **Retailer**: Business selling goods to consumers.
-20. **Direct Selling**: Selling directly to customers, no middlemen.
-21. **Distributor**: Person or company that supplies goods to retailers.
-22. **Brick-and-Mortar**: Physical stores, not online.
-23. **Fiscal Year**: A 12-month period used for financial reporting.
+2. 
+3. **Gross Price**: Price before discounts
+
+4. **Pre-Invoice Deduction**: Discounts before the invoice is made.
+5. 
+6. **Post-Invoice Deduction**: Discounts after the invoice is made
+
+7. **Net Invoice Sales**: Sales after all deductions on the invoice.
+8. 
+9. **Cost of Goods Sold (COGS)**: Cost to make the product.
+10. 
+11. **Gross Margin**: Sales minus the cost of goods sold.
+12.  **Gross Margin %**: Percentage of profit from sales.
+    
+14. **Net Profit**: Profit after all costs, expenses, and taxes.
+15. 
+16. **Net Profit %**: Profit percentage after all expenses.
+17. 
+18. **Market Share %**: Company’s sales compared to the whole market.
+19. 
+20. **Forecast Accuracy**: How close sales predictions are to actual sales.
+21. 
+22. **Net Error**: Difference between actual and predicted results.
+23. 
+24. **Absolute Error**: The exact difference between actual and predicted results.
+25. 
+26. **Year-to-Date (YTD)**: Performance from the start of the year to now.
+27. 
+28. **Year-to-Go (YTG)**: Projected performance until the end of the year.
+29. 
+30. **Benchmark**: Standard to compare performance.
+31. 
+32. **Customer-Consumer**: Customer buys, consumer uses.
+33.
+34. **Retailer**: Business selling goods to consumers.
+35. 
+36. **Direct Selling**: Selling directly to customers, no middlemen.
+37. 
+38. **Distributor**: Person or company that supplies goods to retailers.
+39. 
+40. **Brick-and-Mortar**: Physical stores, not online.
+41. 
+42. **Fiscal Year**: A 12-month period used for financial reporting.
 
 
 
