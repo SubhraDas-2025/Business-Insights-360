@@ -58,7 +58,7 @@ Examined annual trends in 𝗥𝗲𝘃𝗲𝗻𝘂𝗲, 𝗚𝗿𝗼𝘀𝘀 �
 
 https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
-📍𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬:
+📍𝗞𝗘𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚𝗦 :
 
 🛠️ Created 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐃𝐀𝐗 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬.
 
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
 
 
-🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐔𝐬𝐞𝐝:
+🛠️ 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗨𝗦𝗘𝗗 ::
 
 📊𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐞𝐬𝐤𝐭𝐨𝐩: Crafted interactive dashboards.
 
@@ -98,7 +98,7 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
 
 
-📝 **Important Business Terms I have learned :**
+📝 **𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧 𝗕𝗨𝗦𝗜𝗡𝗘𝗦𝗦 𝗧𝗘𝗥𝗠𝗦 𝗜 𝗛𝗔𝗩𝗘 𝗟𝗘𝗔𝗥𝗡𝗘𝗗 :**
 
 
 1.  **Net Sales**:  Sales after returns and discounts.
