@@ -9,10 +9,13 @@ This Power BI dashboard provides critical insights into 𝗔𝘁𝗶𝗾 𝗛�
 ❓𝗣𝗥𝗢𝗕𝗟𝗘𝗠 𝗦𝗧𝗔𝗧𝗘𝗠𝗘𝗡𝗧 :
 
   Atliq Hardware is a fast-growing consumer electronics company with a presence in multiple countries.
-                                                • 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲: Despite their expansion, Atliq relies on outdated data analysis methods, primarily using Excel files.
-              • 𝗜𝘀𝘀𝘂𝗲𝘀 𝘄𝗶𝘁𝗵 𝗢𝗹𝗱 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 :    𝟏) Data management is slow and inefficient.        𝟐) Finding actionable insights is challenging and time-consuming.
-              • 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗣𝗿𝗼𝗯𝗹𝗲𝗺: Recently, Atliq suffered a major loss in their Latin American market due to these data limitations.
-              • 𝗡𝗲𝗲𝗱 𝗳𝗼𝗿 𝗖𝗵𝗮𝗻𝗴𝗲 : To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
+                                               
+1. **Current Challenge**: Despite their expansion, Atliq relies on outdated data analysis methods, primarily using Excel files.
+2. **Issues with Old Methods**:  
+   1) Data management is slow and inefficient.  
+   2) Finding actionable insights is challenging and time-consuming.
+3. **Impact of the Problem**: Recently, Atliq suffered a major loss in their Latin American market due to these data limitations.
+4. **Need for Change**: To prevent further losses, Atliq must adopt modern data analysis tools to enable smarter decision-making and reach their full potential.
 
 🎯 𝗖𝗢𝗠𝗣𝗔𝗡𝗬 𝗚𝗢𝗔𝗟 :
 
@@ -60,19 +63,17 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
 📍𝗞𝗘𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚𝗦 :
 
-1)🛠️Created 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐃𝐀𝐗 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬.
-2)🔗Connected data from 𝐌𝐲𝐒𝐐𝐋 𝐚𝐧𝐝 𝐄𝐱𝐜𝐞𝐥, for a comprehensive view.
-3)📖Utilized 𝐛𝐨𝐨𝐤𝐦𝐚𝐫𝐤𝐬 to switch between visuals.
-4)📚Implemented 𝐩𝐚𝐠𝐞 𝐧𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 with 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 to improve user experience.
-5)📍Used 𝐭𝐨𝐨𝐥𝐭𝐢𝐩𝐬 to save space and provide context within visuals.
-6)🎨Enhanced visualizations through 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠,
-7)✨Designed 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐭𝐢𝐭𝐥𝐞𝐬 that changed based on applied filters.
-8)🔄Set up 𝐚𝐮𝐭𝐨-𝐫𝐞𝐟𝐫𝐞𝐬𝐡 for data 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐠𝐚𝐭𝐞𝐰𝐚𝐲 for real-time updates.
-
+1) 🛠️ **Created Calculated Columns and DAX Measures**: Enhanced data insights through custom calculations.  
+2) 🔗 **Connected Data from MySQL and Excel**: Provided a comprehensive view by combining multiple data sources.  
+3) 📖 **Utilized Bookmarks**: Easily switched between visuals for better storytelling.  
+4) 📚 **Implemented Page Navigation with Buttons**: Improved user experience by adding seamless navigation.  
+5) 📍 **Used Tooltips**: Saved space and provided context within visuals.  
+6) 🎨 **Enhanced Visualizations through Conditional Formatting**: Made data stand out using customized colors.  
+7) ✨ **Designed Dynamic Titles**: Titles changed automatically based on applied filters for clarity.  
+8) 🔄 **Set up Auto-Refresh for Data**: Enabled real-time updates through the gateway.  
 
 
 🛠️ 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗨𝗦𝗘𝗗 ::
-
 
 1) 📊 **Power BI Desktop**: Crafted interactive dashboards.  
 2) 🌐 **Power BI Service**: Published and shared reports with stakeholders.  
@@ -83,10 +84,7 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 7) 🔍 **Excel**: Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.  
 8) 🤝 **ChatGPT**: Support in understanding complex DAX measures.
 
-
-
 📝 **𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧 𝗕𝗨𝗦𝗜𝗡𝗘𝗦𝗦 𝗧𝗘𝗥𝗠𝗦 𝗜 𝗛𝗔𝗩𝗘 𝗟𝗘𝗔𝗥𝗡𝗘𝗗 :**
-
 
 1.  **Net Sales**:  Sales after returns and discounts.
 2.  **Gross Price**:  Price before discounts
