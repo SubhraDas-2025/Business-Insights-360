@@ -60,41 +60,27 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
 📍𝗞𝗘𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚𝗦 :
 
-🛠️ Created 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐃𝐀𝐗 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬.
-
-🔗 Connected data from 𝐌𝐲𝐒𝐐𝐋 𝐚𝐧𝐝 𝐄𝐱𝐜𝐞𝐥, for a comprehensive view.
-
-📖 Utilized 𝐛𝐨𝐨𝐤𝐦𝐚𝐫𝐤𝐬 to switch between visuals.
-
-📚 Implemented 𝐩𝐚𝐠𝐞 𝐧𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 with 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 to improve user experience.
-
-💡 Used 𝐭𝐨𝐨𝐥𝐭𝐢𝐩𝐬 to save space and provide context within visuals.
-
-🎨 Enhanced visualizations through 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠,
-
-✨ Designed 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐭𝐢𝐭𝐥𝐞𝐬 that changed based on applied filters.
-
-🔄 Set up 𝐚𝐮𝐭𝐨-𝐫𝐞𝐟𝐫𝐞𝐬𝐡 for data 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐠𝐚𝐭𝐞𝐰𝐚𝐲 for real-time updates.
+1)🛠️Created 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐃𝐀𝐗 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬.
+2)🔗Connected data from 𝐌𝐲𝐒𝐐𝐋 𝐚𝐧𝐝 𝐄𝐱𝐜𝐞𝐥, for a comprehensive view.
+3)📖Utilized 𝐛𝐨𝐨𝐤𝐦𝐚𝐫𝐤𝐬 to switch between visuals.
+4)📚Implemented 𝐩𝐚𝐠𝐞 𝐧𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 with 𝐛𝐮𝐭𝐭𝐨𝐧𝐬 to improve user experience.
+5)📍Used 𝐭𝐨𝐨𝐥𝐭𝐢𝐩𝐬 to save space and provide context within visuals.
+6)🎨Enhanced visualizations through 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠,
+7)✨Designed 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐭𝐢𝐭𝐥𝐞𝐬 that changed based on applied filters.
+8)🔄Set up 𝐚𝐮𝐭𝐨-𝐫𝐞𝐟𝐫𝐞𝐬𝐡 for data 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐭𝐡𝐞 𝐠𝐚𝐭𝐞𝐰𝐚𝐲 for real-time updates.
 
 
 
 🛠️ 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗨𝗦𝗘𝗗 ::
 
-📊𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐞𝐬𝐤𝐭𝐨𝐩: Crafted interactive dashboards.
-
-🌐𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞: Published and shared reports with stakeholders.
-
-🔄𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲: Transformed and cleaned data for accurate analysis.
-
-📈𝐃𝐀𝐗 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Built complex calculations to enhance data insights.
-
-⚙️𝐃𝐀𝐗 𝐒𝐭𝐮𝐝𝐢𝐨: Optimized performance for efficient reporting.
-
-📋𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐡𝐚𝐫𝐭𝐞𝐫: Defined project goals and kept everything on track! 
-
-🔍𝗘𝘅𝗰𝗲𝗹 : Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
-
-🤝𝗖𝗵𝗮𝘁𝗚𝗣𝗧: Support in understanding complex DAX measures
+1)📊𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐞𝐬𝐤𝐭𝐨𝐩: Crafted interactive dashboards.
+2)🌐𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞: Published and shared reports with stakeholders.
+3)🔄𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲: Transformed and cleaned data for accurate analysis.
+4)📈𝐃𝐀𝐗 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Built complex calculations to enhance data insights.
+5)⚙️𝐃𝐀𝐗 𝐒𝐭𝐮𝐝𝐢𝐨: Optimized performance for efficient reporting.
+6)📋𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐡𝐚𝐫𝐭𝐞𝐫: Defined project goals and kept everything on track! 
+7)🔍𝗘𝘅𝗰𝗲𝗹 : Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
+8)🤝𝗖𝗵𝗮𝘁𝗚𝗣𝗧: Support in understanding complex DAX measures
 
 
 
