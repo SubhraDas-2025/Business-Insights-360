@@ -59,6 +59,7 @@ Examined annual trends in 𝗥𝗲𝘃𝗲𝗻𝘂𝗲, 𝗚𝗿𝗼𝘀𝘀 �
 https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
 📍𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬:
+
 🛠️ Created 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐞𝐝 𝐂𝐨𝐥𝐮𝐦𝐧𝐬 𝐚𝐧𝐝 𝐃𝐀𝐗 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐬.
 🔗 Connected data from 𝐌𝐲𝐒𝐐𝐋 𝐚𝐧𝐝 𝐄𝐱𝐜𝐞𝐥, for a comprehensive view.
 📖 Utilized 𝐛𝐨𝐨𝐤𝐦𝐚𝐫𝐤𝐬 to switch between visuals.
@@ -70,6 +71,7 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
 
 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐔𝐬𝐞𝐝:
+
 📊𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐞𝐬𝐤𝐭𝐨𝐩: Crafted interactive dashboards.
 🌐𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞: Published and shared reports with stakeholders.
 🔄𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲: Transformed and cleaned data for accurate analysis.
@@ -79,7 +81,7 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 🔍𝗘𝘅𝗰𝗲𝗹 : Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
 🤝𝗖𝗵𝗮𝘁𝗚𝗣𝗧: Support in understanding complex DAX measures
 
-Important Business Terms I have learned :
+**Important Business Terms I have learned :**
 
 1. **Net Sales**: Sales after returns and discounts.
 2. **Gross Price**: Price before discounts.
