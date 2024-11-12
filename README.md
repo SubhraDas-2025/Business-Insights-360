@@ -97,31 +97,33 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 🤝𝗖𝗵𝗮𝘁𝗚𝗣𝗧: Support in understanding complex DAX measures
 
 
+
 📝 **Important Business Terms I have learned :**
 
-1.  **Net Sales**: Sales after returns and discounts.
-2.  **Gross Price**: Price before discounts
-3.  **Pre-Invoice Deduction**: Discounts before the invoice is made.
-5.  **Post-Invoice Deduction**: Discounts after the invoice is made
-6.  **Net Invoice Sales**: Sales after all deductions on the invoice.
-7.  **Cost of Goods Sold (COGS)**: Cost to make the product.
-8.  **Gross Margin**: Sales minus the cost of goods sold.
-9.  **Gross Margin %**: Percentage of profit from sales.
-10. **Net Profit**: Profit after all costs, expenses, and taxes.
-11. **Net Profit %**: Profit percentage after all expenses.
-12. **Market Share %**: Company’s sales compared to the whole market.
-13. **Forecast Accuracy**: How close sales predictions are to actual sales.
-14. **Net Error**: Difference between actual and predicted results.
-15. **Absolute Error**: The exact difference between actual and predicted results.
-16. **Year-to-Date (YTD)**: Performance from the start of the year to now.
-17. **Year-to-Go (YTG)**: Projected performance until the end of the year.
-18. **Benchmark**: Standard to compare performance.
-19. **Customer-Consumer**: Customer buys, consumer uses.
-20. **Retailer**: Business selling goods to consumers.
-21. **Direct Selling**: Selling directly to customers, no middlemen.
-22. **Distributor**: Person or company that supplies goods to retailers.
-23. **Brick-and-Mortar**: Physical stores, not online.
-24. **Fiscal Year**: A 12-month period used for financial reporting.
+
+1.  **Net Sales**:  Sales after returns and discounts.
+2.  **Gross Price**:  Price before discounts
+3.  **Pre-Invoice Deduction**:  Discounts before the invoice is made.
+5.  **Post-Invoice Deduction**:  Discounts after the invoice is made
+6.  **Net Invoice Sales**:  Sales after all deductions on the invoice.
+7.  **Cost of Goods Sold (COGS)**:  Cost to make the product.
+8.  **Gross Margin**:  Sales minus the cost of goods sold.
+9.  **Gross Margin %**:  Percentage of profit from sales.
+10. **Net Profit**:  Profit after all costs, expenses, and taxes.
+11. **Net Profit %**:  Profit percentage after all expenses.
+12. **Market Share %**:  Company’s sales compared to the whole market.
+13. **Forecast Accuracy**:  How close sales predictions are to actual sales.
+14. **Net Error**:  Difference between actual and predicted results.
+15. **Absolute Error**:  The exact difference between actual and predicted results.
+16. **Year-to-Date (YTD)**:  Performance from the start of the year to now.
+17. **Year-to-Go (YTG)**:  Projected performance until the end of the year.
+18. **Benchmark**:  Standard to compare performance.
+19. **Customer-Consumer**:  Customer buys, consumer uses.
+20. **Retailer**:  Business selling goods to consumers.
+21. **Direct Selling**:  Selling directly to customers, no middlemen.
+22. **Distributor**:  Person or company that supplies goods to retailers.
+23. **Brick-and-Mortar**:  Physical stores, not online.
+24. **Fiscal Year**:  A 12-month period used for financial reporting.
 
 
 
