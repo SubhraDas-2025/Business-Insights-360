@@ -30,21 +30,31 @@ The goal is to transition Atliq Hardware from Excel files to a modern data analy
 
 📊 𝗙𝗜𝗡𝗔𝗡𝗖𝗘 𝗩𝗜𝗘𝗪 :
 
+Reviewed essential 𝗞𝗣𝗜s, including 𝗡𝗲𝘁 𝗦𝗮𝗹𝗲𝘀, 𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 %, and 𝗡𝗲𝘁 𝗣𝗿𝗼𝗳𝗶𝘁 %, and developed a P&L statement. Assessed trends in net sales performance over time and pinpointed the top-performing and underperforming products and customers.
+
 https://github.com/user-attachments/assets/07affe7a-cd15-448f-94e7-7d45b2e61454
 
 📈 𝗦𝗔𝗟𝗘𝗦 𝗩𝗜𝗘𝗪 :
+
+Examined customer and product performance using 𝗡𝗲𝘁 𝗦𝗮𝗹𝗲𝘀 and 𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 as key indicators.
 
 https://github.com/user-attachments/assets/18027f29-2c04-4183-980a-34eb97045694
 
 💸𝗠𝗔𝗥𝗞𝗘𝗧𝗜𝗡𝗚 𝗩𝗜𝗘𝗪 :
 
+Evaluated product performance to create strategies aimed at boosting  𝗻𝗲𝘁 𝗽𝗿𝗼𝗳𝗶𝘁 and improving  𝗴𝗿𝗼𝘀𝘀 𝗺𝗮𝗿𝗴𝗶𝗻 percentages.
+
 https://github.com/user-attachments/assets/7328b090-281e-4909-9bcb-7cce648a63f0
 
 🚚 𝗦𝗨𝗣𝗣𝗟𝗬 𝗖𝗛𝗔𝗜𝗡 𝗩𝗜𝗘𝗪 :
 
+Assessed  𝗳𝗼𝗿𝗲𝗰𝗮𝘀𝘁 𝗮𝗰𝗰𝘂𝗿𝗮𝗰𝘆 and 𝗻𝗲𝘁 𝗲𝗿𝗿𝗼𝗿 for various products and customers
+
 https://github.com/user-attachments/assets/5560d462-7611-43fb-b0b0-ce9984c2e423
 
 👩‍💻 𝗘𝗫𝗘𝗖𝗨𝗧𝗜𝗩𝗘 𝗩𝗜𝗘𝗪 :
+
+Examined annual trends in 𝗥𝗲𝘃𝗲𝗻𝘂𝗲, 𝗚𝗿𝗼𝘀𝘀 𝗠𝗮𝗿𝗴𝗶𝗻 %, 𝗡𝗲𝘁 𝗣𝗿𝗼𝗳𝗶𝘁 % , and 𝗠𝗮𝗿𝗸𝗲𝘁 𝗦𝗵𝗮𝗿𝗲 %, identifying the top 5 customers and products by revenue contribution. Delivered a high-level summary with key KPIs from each perspective, offering stakeholders a clear insight into overall company performance.
 
 https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 
