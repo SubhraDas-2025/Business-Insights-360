@@ -73,10 +73,15 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐈 𝐔𝐬𝐞𝐝:
 
 📊𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐃𝐞𝐬𝐤𝐭𝐨𝐩: Crafted interactive dashboards.
+
 🌐𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞: Published and shared reports with stakeholders.
+
 🔄𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲: Transformed and cleaned data for accurate analysis.
-📈𝐃𝐀𝐗 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Built complex calculations to enhance data insights. 
-⚙️𝐃𝐀𝐗 𝐒𝐭𝐮𝐝𝐢𝐨: Optimized performance for efficient reporting. 
+
+📈𝐃𝐀𝐗 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: Built complex calculations to enhance data insights.
+
+⚙️𝐃𝐀𝐗 𝐒𝐭𝐮𝐝𝐢𝐨: Optimized performance for efficient reporting.
+
 📋𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐡𝐚𝐫𝐭𝐞𝐫: Defined project goals and kept everything on track! 
 🔍𝗘𝘅𝗰𝗲𝗹 : Provided by stakeholders for reference User Acceptance Testing (UAT) report creation.
 🤝𝗖𝗵𝗮𝘁𝗚𝗣𝗧: Support in understanding complex DAX measures
