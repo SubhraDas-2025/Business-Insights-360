@@ -69,8 +69,9 @@ https://github.com/user-attachments/assets/6ec54ae5-f692-4348-ae27-65941d81d9d9
 4) 📚 **Implemented Page Navigation with Buttons**: Improved user experience by adding seamless navigation.  
 5) 📍 **Used Tooltips**: Saved space and provided context within visuals.  
 6) 🎨 **Enhanced Visualizations through Conditional Formatting**: Made data stand out using customized colors.  
-7) ✨ **Designed Dynamic Titles**: Titles changed automatically based on applied filters for clarity.  
-8) 🔄 **Set up Auto-Refresh for Data**: Enabled real-time updates through the gateway.  
+7) ✨ **Designed Dynamic Titles**: Titles changed automatically based on applied filters for clarity.
+8) 🧑‍💻 **Stakeholder Management**: Enhanced skills in stakeholder communication and data storytelling.  
+9) 🔄 **Set up Auto-Refresh for Data**: Enabled real-time updates through the gateway.  
 
 
 🛠️ 𝗧𝗢𝗢𝗟𝗦 𝗜 𝗨𝗦𝗘𝗗 ::
